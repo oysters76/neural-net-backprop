@@ -7,5 +7,5 @@ Goals are to extend this to mimic gradient descent and also to visualize any tri
 
 Currently the development is at its inital stages. 
 
-Demo Screenshot of what it looks like: ![screenshot](./test.jpg)
+Demo Screenshot of what it looks like: ![screenshot](./test.PNG)
  
