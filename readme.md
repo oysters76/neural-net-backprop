@@ -7,5 +7,5 @@ Goals are to extend this to mimic gradient descent and also to visualize any tri
 
 Currently the development is at its inital stages. 
 
-Demo Screenshot of what it looks like: ![screenshot](https://static.javatpoint.com/top10-technologies/images/top-10-richest-universities-in-the-world1.jpg)
+Demo Screenshot of what it looks like: ![screenshot](./test.jpg)
  
