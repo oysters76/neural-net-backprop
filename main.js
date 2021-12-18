@@ -1,3 +1,5 @@
+//main.js : draws the elements on the screen 
+
 var canvas = document.querySelector('canvas')
 canvas.width = window.innerWidth;
 canvas.height = 700;
